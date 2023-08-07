@@ -4,5 +4,5 @@ Shaders I did with GLSL
 
 - Hypno
 
-![](./images/hypno.mp4)
+![](/images/hypno.mp4)
 
